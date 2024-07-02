@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔬 I'm currently working on: Atradius, as a Finantial Risk Analyst.<br>👯‍♀️ I'm looking to collaborate on: Data Science and Machine Learning Projects focused in the finantial world. <br>🌱 I'm currently learning: Data Science and Machine Learning skills. <br>💬 Ask me about: Risk analysis, credit evaluation, market forecasting. <br>🌸 Fun fact: I love Arts, Literature and Philosophy and I would like to find a way <br>to merge these passions with the possibilities that the AI and ML gives to us. 
+🔬 I'm currently working on: Atradius, as a Finantial Risk Analyst.<br>👯‍♀️ I'm looking to collaborate on: Data Science and Machine Learning Projects focused in the finantial world. <br>🌱 I'm currently learning: Data Science and Machine Learning skills. <br>💬 Ask me about: Risk analysis, credit evaluation, market forecasting. <br>🌸 Fun fact: I love Arts, Literature and Philosophy. I would like to find a way <br>to merge these passions with the possibilities that the AI and ML gives to us. 
 
 
 ## 🌐 Socials:
